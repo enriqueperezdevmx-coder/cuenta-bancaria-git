@@ -1,0 +1,6 @@
+*   449a74f (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from enriqueperezdevmx-coder/feature/retiros
+|\  
+| * eafc57d Dice cuántos retiros fueron gratis
+| * 274fd76 Muestra el número de retiros
+|/  
+* 07389a3 MP-1: mi nombre en el estado de cuenta
